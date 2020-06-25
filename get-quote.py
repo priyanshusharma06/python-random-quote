@@ -8,4 +8,4 @@ def pain():
     #print(quotes)
 
 if __name__== "__main__":
-    main()
+    pain()
